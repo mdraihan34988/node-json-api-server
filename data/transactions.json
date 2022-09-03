@@ -1,5 +1,4 @@
-{
-  "transactions": [
+[
     {
       "id": 1,
       "name": "Salary from Google",
@@ -12,5 +11,4 @@
       "type": "expense",
       "amount": 200000
     }
-  ]
-}
+]
