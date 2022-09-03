@@ -9,5 +9,6 @@ module.exports = {
   videos,
   videos2,
   tags,
+  transactions
 }
 
