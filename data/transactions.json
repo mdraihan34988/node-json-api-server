@@ -1,14 +1,74 @@
 [
-    {
-      "id": 1,
-      "name": "Salary from Google",
-      "type": "income",
-      "amount": 1000000
-    },
-    {
-      "id": 2,
-      "name": "Family Expenses",
-      "type": "expense",
-      "amount": 200000
-    }
+  {
+    "id": 1,
+    "name": "Salary from Google",
+    "type": "income",
+    "amount": 1000000
+  },
+  {
+    "id": 2,
+    "name": "Family Expenses",
+    "type": "expense",
+    "amount": 200000
+  },
+  {
+    "name": "Income from Facebook",
+    "type": "income",
+    "amount": 100000,
+    "id": 3
+  },
+  {
+    "name": "Income from Free lancing",
+    "type": "income",
+    "amount": 200000,
+    "id": 4
+  },
+  {
+    "name": "Income from You tube",
+    "type": "income",
+    "amount": 200000,
+    "id": 5
+  },
+  {
+    "name": "House Rent",
+    "type": "expense",
+    "amount": 100000,
+    "id": 6
+  },
+  {
+    "name": "Monthly House Expense",
+    "type": "expense",
+    "amount": 200000,
+    "id": 7
+  },
+  {
+    "name": "Monthly shopping Expense",
+    "type": "expense",
+    "amount": 20000,
+    "id": 8
+  },
+  {
+    "name": "Medical Expense",
+    "type": "expense",
+    "amount": 20000,
+    "id": 9
+  },
+  {
+    "name": "Medicine Expense",
+    "type": "expense",
+    "amount": 10000,
+    "id": 10
+  },
+  {
+    "name": "Outsourcing",
+    "type": "income",
+    "amount": 100000,
+    "id": 11
+  },
+  {
+    "name": "Income from Business",
+    "type": "income",
+    "amount": 200000,
+    "id": 12
+  }
 ]
