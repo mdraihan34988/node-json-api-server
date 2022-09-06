@@ -1,5 +1,4 @@
-{
-  "todos": [
+[
     {
       "id": 1,
       "text": "Learn Vanilla JavaScript",
@@ -31,4 +30,4 @@
       "color": "red"
     }
   ]
-}
+
